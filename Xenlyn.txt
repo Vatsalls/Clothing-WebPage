@@ -1,0 +1,31 @@
+PROJECT TITLE:
+E-Commerce Frontend Website (XENLYN)
+
+PROJECT DESCRIPTION:
+This project is a responsive and visually structured e-commerce frontend website developed using HTML and CSS. It includes key UI sections such as a fixed navigation header, hero banner, feature highlights, promotional banners, newsletter signup, and a detailed footer. The design focuses on clean layout, user-friendly navigation, and consistent styling to enhance the overall user experience.
+
+TECHNOLOGIES USED:
+
+HTML5
+
+CSS3
+
+Font Awesome Icons
+
+KEY FEATURES:
+
+Responsive layout with structured sections
+
+Modern UI design with banners and promotional sections
+
+Feature cards and call-to-action buttons
+
+Newsletter subscription section
+
+Footer with contact details and social media links
+
+PROJECT TYPE:
+Frontend Web Development
+
+PURPOSE:
+To demonstrate frontend development skills, UI/UX understanding, and the ability to design a complete e-commerce website layout using core web technologies.
